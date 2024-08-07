@@ -1,6 +1,6 @@
 # sending email using python
 
-pip smdplib
+pip smtplib
 
 import smtplib as s
 
